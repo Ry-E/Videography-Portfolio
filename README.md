@@ -4,5 +4,6 @@ This personal site served as my porfolio for video production and editing. It wa
 
 ## Features
 
+-   Responsive design
 -   Auto playing video background
 -   Embedded videos and photos
